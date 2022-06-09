@@ -34,18 +34,30 @@ export const MainText = styled.div`
 export const Text1 = styled.text`
   font-size: 3rem;
   font-weight: bold;
+  @media (max-width: 581px) {
+    font-size: 1.5rem;
+ }
 `;
 export const TextName = styled.text`
   font-size: 2.5rem;
   font-weight: 600;
+  @media (max-width: 581px) {
+    font-size: 1.25rem;
+ }
 `;
 export const Text2 = styled.text`
   font-size: 1.5rem;
   font-weight: 500;
+  @media (max-width: 581px) {
+    font-size: 0.75rem;
+ }
 `;
 export const Text3 = styled.text`
   font-size: 1.5rem;
   font-weight: 400;
+  @media (max-width: 581px) {
+    font-size: 0.75rem;
+ }
 `;
 export const ContImg = styled.div`
   display: flex;
