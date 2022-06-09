@@ -29,6 +29,7 @@ export const MainText = styled.div`
   @media (max-width: 581px) {
     width: 25rem;
     padding-bottom: 2rem;
+    padding-top: 2rem;
  }
 `;
 export const Text1 = styled.text`
