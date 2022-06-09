@@ -33,15 +33,15 @@ export const HeaderComp = (prop: HeaderProp) => {
             <S.ContCenter>
             <TextButton 
               name={t("home")} 
-              onClick={() => {router.push("/")}}
+              onClick={() => {router.push("/"), setShow(false)}}
             />
             <TextButton 
               name={t("projects")}  
-              onClick={() => {router.push("/projects")}} 
+              onClick={() => {router.push("/projects"), setShow(false)}} 
             />
             <TextButton 
               name={t("about")} 
-              onClick={() => {router.push("/about")}} 
+              onClick={() => {router.push("/about"), setShow(false)}} 
             />
             </S.ContCenter>
                 <S.Contright>
