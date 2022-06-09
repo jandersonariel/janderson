@@ -1,5 +1,5 @@
+import React from 'React'
 import * as S from './styles';
-
 
 export const FooterComp = () =>  {
   return (

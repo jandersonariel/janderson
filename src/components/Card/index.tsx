@@ -1,3 +1,4 @@
+import React from 'React'
 import * as S from './styles';
 import {GitIcon} from './assets/gitsvg'
 import { ModalComp } from '../Modal';

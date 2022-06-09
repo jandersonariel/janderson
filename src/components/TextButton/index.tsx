@@ -1,3 +1,4 @@
+import React from 'React'
 import {
   TxButton
 } from './styles';
