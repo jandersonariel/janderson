@@ -46,8 +46,8 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css?family=Roboto:400,500,700"
             rel="stylesheet"
           />
-
-          <link rel="icon" href="code.ico" />
+          <title>Janderson Ariel</title>
+          <link rel="icon" href="/favicon.ico" />
         </Head>
         <body>
           <Main />

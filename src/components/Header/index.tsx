@@ -15,18 +15,16 @@ export const HeaderComp = (prop: HeaderProp) => {
   const [show, setShow] = useState(false)
 
   const tooggleMenu = () => {
-    setShow(!show)
+    setShow(!show) 
   }
 
   const {t} = useTranslation();
   const router = useRouter()
   return (
-      <S.Header >
+      <S.Header>
       <S.LogoCont>
         <S.Image src="./banner.png" alt="day3" onClick={() => {router.push("/")}}/>
       </S.LogoCont>
-
-      
         <S.ContTextButton>
           <S.ContMenu>
             <IoIosList size={'1.7rem'} onClick={tooggleMenu} width= "50"/>
