@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './home'
+import Home from './src/pages/home'
 import Head from 'next/head'
 
 const Base: React.FC = () => {
