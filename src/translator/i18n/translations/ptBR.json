@@ -21,7 +21,7 @@
     "prcssspin": "Carregador Giratório",
     "prcssgrad": "Animação Gradiente",
     "tecnology": "Tecnologias",
-    "prcaddesc": "Projeto que possibilita cadastro de usuário salvando suas informações de nome, E-mail e Senha.",
+    "prcaddesc": "Projeto que possibilita cadastro de usuário salvando suas informações de Nome, E-mail e Senha.",
     "prpoddesc": "Podcastr é uma aplicação web desenvolvida na NLW-5, A aplicação consiste em ouvir podcasts que estão armazenados em memória no arquivo server.json.",
     "prtwidesc": "Este é um clone do aplicativo da twitch.",
     "prphadesc": "Este é um simples projeto de requisição a API utilizando Axios, a cada clique no botão ele trás uma frase dita pelo Rapper Kanye West.",

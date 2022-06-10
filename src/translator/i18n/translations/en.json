@@ -21,7 +21,7 @@
     "prcssspin": "Spinner Loader",
     "prcssgrad": "Gradient Animation",
     "tecnology": "Technologies",
-    "prcaddesc": "Project that allows user registration by saving their name, E-mail and Password information.",
+    "prcaddesc": "Project that allows user registration by saving their Name, E-mail and Password information.",
     "prpoddesc": "Podcastr is a web application developed in NLW-5. The application consists of listening to podcasts that are stored in memory in the server.json file.",
     "prtwidesc": "This is a clone of the twitch app.",
     "prphadesc": "This is a simple API request project using Axios, each click on the button brings a phrase said by Rapper Kanye West.",
