@@ -10,4 +10,7 @@ export const TxButton = styled.button`
     transform: scaleX(1.1);
     font-weight: bold;
   }
+  :hover {
+    transform: scale(1.1);
+  }
 `;

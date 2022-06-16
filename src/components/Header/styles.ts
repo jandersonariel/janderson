@@ -19,6 +19,7 @@ export const LogoCont = styled.div`
 `;
 export const Image = styled.img`
   width: 11rem;
+  cursor: pointer;
 `;
 export const ContTextButton = styled.div`
   display: flex;
@@ -37,6 +38,9 @@ export const ContMenu = styled.div`
     display: flex;
     align-items: center;
     position: fixed;
+    :hover {
+    transform: scale(1.1);
+  }
   }
 `;
 export const ContOprionButton = styled.div<{show: boolean}>`
@@ -121,5 +125,8 @@ export const Input = styled.input`
       var(--offset-diagonal) var(--offset-diagonal) 0 var(--ray-size),
       calc(var(--offset-diagonal) * -1) var(--offset-diagonal) 0 var(--ray-size),
       var(--offset-diagonal) calc(var(--offset-diagonal) * -1) 0 var(--ray-size);
+  }
+  :hover {
+    transform: scale(1.1);
   }
 `;
