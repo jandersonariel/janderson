@@ -9,3 +9,4 @@ yarn
 then to start
 yarn dev
 ```
+![image](https://user-images.githubusercontent.com/82826472/174094835-333f66f7-c5f9-42d4-9fc3-f460fa482a98.png)
